@@ -1,1 +1,1 @@
-I did not use AI/LLMs
+I used AI to check for clarification with the steps in the environment.yml file
